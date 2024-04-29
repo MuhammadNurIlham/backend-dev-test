@@ -17,7 +17,8 @@ function tentukanKategoriNilai(nilai) {
     return "E";
   }
 }
-
+```
+```sh
 const skor = 75; // Student score value
 const kategori = tentukanKategoriNilai(skor);
 console.log("Skor:", skor);
